@@ -1,11 +1,11 @@
 ## Install Jenkins in Ubuntu 18.04
 
  Step 1) Check the Upadates
-      `sudo apt update`
+       sudo apt update
    
  Step 2) Check Java Version As Java as Necessery
  
-      `java -version`
+      java -version
     
  Step 3) If not present Install Java
  
