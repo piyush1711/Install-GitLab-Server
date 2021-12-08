@@ -22,13 +22,16 @@
       `sudo apt update`
       `sudo apt install jenkins`
       
- Step 6) Now start Jenkins & Check Status of Jenkins 
+ Step 6) Now start Jenkins & Check Status of Jenkins
+ 
       `sudo systemctl start jenkins`
       `sudo systemctl status jenkins`
       
  Step 7) Allow Firewall  
+ 
       `sudo ufw allow 8080`
       
  Step 8) Check Password 
+ 
      `cat /var/lib/jenkins/secrets/initialAdminPassword`
   
